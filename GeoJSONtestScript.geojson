@@ -8,18 +8,18 @@
         "coordinates": [
           [
             [-0.0855554, 51.519815],
-            [-0.0855554, 51.520815],
-            [-0.0845554, 51.520815],
             [-0.0845554, 51.519815],
-            [-0.0855554, 51.519815]  // Closing the loop
+            [-0.0845554, 51.520815],
+            [-0.0855554, 51.520815],
+            [-0.0855554, 51.519815]
           ]
         ]
       },
       "properties": {
-        "name": "Example Area",            // Name of the area
-        "fillColor": "rgba(255,0,0,0.5)",  // Red with 50% opacity
-        "stroke": "#0000FF",               // Blue line color
-        "stroke-width": 2                  // Line width
+        "name": "Example Area",
+        "fillColor": "rgba(255,0,0,0.5)",
+        "stroke": "#0000FF",
+        "stroke-width": 2
       }
     }
   ]
