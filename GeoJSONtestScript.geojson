@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-0.0855554, 51.519815],
+            [-0.085555, 51.5198157]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Example Area",            // Name of the area
+        "fillColor": "rgba(255,0,0,0.5)",  // Red with 50% opacity
+        "stroke": "#0000FF",               // Blue line color
+        "stroke-width": 2                  // Line width
+      }
+    }
+  ]
+}
