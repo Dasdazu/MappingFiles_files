@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <name>Perth Polygon</name>
+        <Style id="polygonStyle">
+            <LineStyle>
+                <color>ff0000ff</color> <!-- Blue color -->
+                <width>2</width> <!-- Stroke weight -->
+            </LineStyle>
+            <PolyStyle>
+                <color>7dff0000</color> <!-- Red color with 50% opacity -->
+            </PolyStyle>
+        </Style>
+        <Placemark>
+            <name>Perth 30km Square</name>
+            <styleUrl>#polygonStyle</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            115.757, -31.950, 0
+                            115.757, -32.220, 0
+                            116.027, -32.220, 0
+                            116.027, -31.950, 0
+                            115.757, -31.950, 0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+    </Document>
+</kml>
