@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <name>Perth Polygon Style</name>
+        <Style id="polygonStyle">
+            <LineStyle>
+                <color>FFF8CE59</color> <!-- Blue color -->
+                <width>10</width> <!-- Stroke weight -->
+            </LineStyle>
+        </Style>
+        <Style id="polygonStyle">
+            <PolyStyle>
+                <color>FF0000FF</color> <!-- Blue color with full opacity -->
+                <colorMode>normal</colorMode>
+                <fill>1</fill> <!-- Fill the polygon -->
+                <outline>0</outline> <!-- Draw the outline -->
+            </PolyStyle>
+        </Style>
+    </Document>
+</kml>
