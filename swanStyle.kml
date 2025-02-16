@@ -8,7 +8,10 @@
                 <width>10</width> <!-- Stroke weight -->
             </LineStyle>
             <PolyStyle>
-                <color>FFF8CE59</color> <!-- Turquoise color with 50% opacity "80" for 50% opacity in the alpha location-->
+                <color>FF0000FF</color> <!-- Blue color with full opacity -->
+                <colorMode>normal</colorMode>
+                <fill>1</fill> <!-- Fill the polygon -->
+                <outline>1</outline> <!-- Draw the outline -->
             </PolyStyle>
         </Style>
     </Document>
