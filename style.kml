@@ -3,7 +3,7 @@
   <Document>
     <Style id="polygonStyle">
       <LineStyle>
-        <color>00C896FF</color> <!-- RGB: 255, 150, 200 with 0% opacity -->
+        <color>ffc896ff</color> <!-- RGB: 255, 150, 200 with 0% opacity -->
         <width>12</width>
       </LineStyle>
     </Style>
