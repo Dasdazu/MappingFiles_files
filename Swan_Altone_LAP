@@ -11,7 +11,7 @@
 </Schema>
 <Folder><name>CoS_LAP_boundaries_Feb2025</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill><color>7dff0000</color></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#CoS_LAP_boundaries_Feb2025">
 		<SimpleData name="lap_name">Altone</SimpleData>
 		<SimpleData name="user_mod">james-s</SimpleData>
