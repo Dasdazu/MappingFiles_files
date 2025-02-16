@@ -9,9 +9,6 @@
             </LineStyle>
             <PolyStyle>
                 <color>FF0000FF</color> <!-- Blue color with full opacity -->
-                <colorMode>normal</colorMode>
-                <fill>1</fill> <!-- Fill the polygon -->
-                <outline>0</outline> <!-- Draw the outline -->
             </PolyStyle>
         </Style>
     </Document>
