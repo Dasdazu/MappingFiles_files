@@ -6,6 +6,8 @@
         <color>00C896FF</color> <!-- RGB: 255, 150, 200 with 0% opacity -->
         <width>12</width>
       </LineStyle>
+    </Style>
+    <Style id="polygonStyle">    
       <PolyStyle>
         <color>ff0000ff</color> <!-- RGB: 000, 000, 255 with 50% opacity -->
       </PolyStyle>
