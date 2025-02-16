@@ -4,7 +4,7 @@
         <name>Perth Polygon Style</name>
         <Style id="polygonStyle">
             <LineStyle>
-                <color>ff0000ff</color> <!-- Blue color -->
+                <color>FFF8CE59</color> <!-- Blue color -->
                 <width>10</width> <!-- Stroke weight -->
             </LineStyle>
             <PolyStyle>
