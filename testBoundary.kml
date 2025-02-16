@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Combined KML</name>
+    <!-- Define the style -->
+    <Style id="polygonStyle">
+      <PolyStyle>
+        <color>FF0000FF</color> <!-- Blue color with full opacity -->
+      </PolyStyle>
+    </Style>
+    <!-- Define the boundary with the style applied -->
+    <Placemark>
+      <name>Example Polygon</name>
+      <styleUrl>#polygonStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              144.9631,-37.8136,0
+              144.9631,-37.5136,0
+              145.2631,-37.5136,0
+              145.2631,-37.8136,0
+              144.9631,-37.8136,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
