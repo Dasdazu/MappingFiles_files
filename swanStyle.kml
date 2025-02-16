@@ -8,7 +8,7 @@
                 <width>5</width> <!-- Stroke weight -->
             </LineStyle>
             <PolyStyle>
-                <color>7dff0000</color> <!-- Red color with 50% opacity -->
+                <color>FF697900</color> <!-- Turquoise color with 50% opacity "80" for 50% opacity in the alpha location-->
             </PolyStyle>
         </Style>
     </Document>
