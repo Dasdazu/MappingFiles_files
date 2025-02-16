@@ -7,7 +7,7 @@
         <width>2</width>
       </LineStyle>
       <PolyStyle>
-        <color>7FFF0000</color> <!-- RGB: 000, 000, 255 with 50% opacity -->
+        <color>ffff0000</color> <!-- RGB: 000, 000, 255 with 50% opacity -->
       </PolyStyle>
     </Style>
   </Document>
