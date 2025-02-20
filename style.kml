@@ -10,8 +10,8 @@
         <color>ff0000ff</color> <!-- RGB: 000, 000, 255 with 50% opacity -->
       </PolyStyle>
       <LabelStyle>
-  			<color>FF0000FF</color>
-			</LabelStyle>    
+  	<color>FF0000FF</color>
+	</LabelStyle>    
     </Style>
   </Document>
 </kml>
