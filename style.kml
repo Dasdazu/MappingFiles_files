@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
-  <Document>
-    <Style id="polygonStyle">
-      <LineStyle>
-        <color>ff0000ff</color> <!-- Red with 100% opacity -->
-        <width>12</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>ff0000ff</color> <!-- Red with 100% opacity -->
-      </PolyStyle>
-      <LabelStyle>
-  	  <color>ff0000ff</color> <!-- Red with 100% opacity -->
-      </LabelStyle>    
-    </Style>
-  </Document>
+	<Document>
+		<Style id="polygonStyle">
+			<LineStyle>
+				<color>ff0000ff</color> <!-- Red with 100% opacity -->
+				<width>12</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ff0000ff</color> <!-- Red with 100% opacity -->
+			</PolyStyle>
+			<LabelStyle>
+				<color>ff0000ff</color> <!-- Red with 100% opacity -->
+			</LabelStyle>    
+		</Style>
+	</Document>
 </kml>
