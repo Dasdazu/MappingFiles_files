@@ -3,14 +3,14 @@
   <Document>
     <Style id="polygonStyle">
       <LineStyle>
-        <color>ffc896ff</color> <!-- RGB: 255, 150, 200 with 0% opacity -->
+        <color>ff0000ff</color> <!-- BGR: 255, 150, 200 with 0% opacity -->
         <width>12</width>
       </LineStyle>
       <PolyStyle>
-        <color>ff0000ff</color> <!-- RGB: 000, 000, 255 with 50% opacity -->
+        <color>ff0000ff</color> <!-- BGR: 000, 000, 255 with 0% opacity -->
       </PolyStyle>
       <LabelStyle>
-  	<color>FF0000FF</color>
+  	    <color>ff0000ff</color>
       </LabelStyle>    
     </Style>
   </Document>
