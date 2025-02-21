@@ -4,12 +4,15 @@
         <name>Perth Polygon Style</name>
         <Style id="polygonStyle">
             <LineStyle>
-                <color>FFF8CE59</color> <!-- Blue color -->
+                <color>FF0000FF</color> <!-- RED color -->
                 <width>10</width> <!-- Stroke weight -->
             </LineStyle>
             <PolyStyle>
-                <color>FF0000FF</color> <!-- Blue color with full opacity -->
+                <color>FF0000FF</color> <!-- RED Color -->
             </PolyStyle>
+            <LabelStyle>
+                <color>FF0000FF</color>
+            </LabelStyle>
         </Style>
     </Document>
 </kml>
