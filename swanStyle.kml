@@ -8,10 +8,10 @@
                 <width>10</width> <!-- Stroke weight -->
             </LineStyle>
             <PolyStyle>
-                <color>FF0000FF</color> <!-- RED Color -->
+                <color>FF0000FF</color> <!-- RED color -->
             </PolyStyle>
             <LabelStyle>
-                <color>FF0000FF</color>
+                <color>FF0000FF</color> <!-- RED color -->
             </LabelStyle>
         </Style>
     </Document>
