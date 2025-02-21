@@ -11,7 +11,7 @@
 </Schema>
 <Folder><name>CoS_LAP_boundaries_Feb2025</name>
   <Placemark>
-	<styleUrl>swanStyle.kml#polygonStyle</styleUrl>
+	<styleUrl>style.kml#polygonStyle</styleUrl>
 		<ExtendedData><SchemaData schemaUrl="#CoS_LAP_boundaries_Feb2025">
 		<SimpleData name="lap_name">Altone</SimpleData>
 		<SimpleData name="user_mod">james-s</SimpleData>
