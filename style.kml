@@ -3,7 +3,7 @@ llow<?xml version="1.0" encoding="UTF-8"?>
 	<Document>
 		<Style id="polygonStyle">
 			<LineStyle>
-				<color>ffff0000</color> <!-- Blue with 100% opacity -->
+				<color>ff00ffff</color> <!-- Blue with 100% opacity -->
 				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
