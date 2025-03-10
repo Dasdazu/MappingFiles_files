@@ -4,7 +4,7 @@
 		<Style id="polygonStyle">
 			<LineStyle>
 				<color>ff0000ff</color> <!-- Red with 100% opacity -->
-				<width>5</width>
+				<width>2</width>
 			</LineStyle>
 			<PolyStyle>
 				<color>ff0000ff</color> <!-- Red with 100% opacity -->
