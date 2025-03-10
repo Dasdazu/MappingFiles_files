@@ -4,7 +4,7 @@ llow<?xml version="1.0" encoding="UTF-8"?>
 		<Style id="polygonStyle">
 			<LineStyle>
 				<color>ffff0000</color> <!-- Blue with 100% opacity -->
-				<width>2</width>
+				<width>4</width>
 			</LineStyle>
 			<PolyStyle>
 				<color>ff0000ff</color> <!-- Red with 100% opacity -->
