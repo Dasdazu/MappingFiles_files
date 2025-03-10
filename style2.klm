@@ -10,7 +10,7 @@
         </Style>
         <Style id="polygonStyle">
             <PolyStyle>
-                <color>FF0000FF</color> <!-- Blue color with full opacity -->
+                <color>FF0000FF</color> <!-- Red color with full opacity -->
                 <colorMode>normal</colorMode>
                 <fill>1</fill> <!-- Fill the polygon -->
                 <outline>0</outline> <!-- Draw the outline -->
