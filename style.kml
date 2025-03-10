@@ -10,7 +10,7 @@
 				<color>ff00ffff</color> <!-- Yellow with 100% opacity -->
 			</PolyStyle>
 			<LabelStyle>
-				<color>ff0000ff</color> <!-- Red with 100% opacity -->
+				<color>ff00ffff</color> <!-- Red with 100% opacity -->
 			</LabelStyle>    
 		</Style>
 	</Document>
