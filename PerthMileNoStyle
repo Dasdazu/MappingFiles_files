@@ -3,7 +3,7 @@
   <Document>
     <Placemark>
       <name>Square Mile Polygon</name>
-      <styleUrl>Style.kml#PolygonStyle</styleUrl>
+      <styleUrl>Style.kml#polygonStyle</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
