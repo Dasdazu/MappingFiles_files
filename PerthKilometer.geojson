@@ -1,1 +1,19 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[115.8575, -31.9505], [115.8675, -31.9505], [115.8675, -31.9405], [115.8575, -31.9405], [115.8575, -31.9505]]]}, "properties": {}}]}
+{
+	"type": "FeatureCollection",
+	"features": [
+	 {
+  		"type": "Feature",
+			"properties": {
+				"name": "Square Kilometer Polygon"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[115.8575, -31.9505], [115.8675, -31.9505], [115.8675, -31.9405], [115.8575, -31.9405], [115.8575, -31.9505]
+					]
+				]
+			}
+		}
+	]
+}
