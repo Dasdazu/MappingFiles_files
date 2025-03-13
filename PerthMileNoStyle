@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <Style id="yellowBlueStyle">
-      <LineStyle>
-        <color>ff0000ff</color>
-        <width>2</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>80ffff00</color>
-      </PolyStyle>
-    </Style>
     <Placemark>
       <name>Square Mile Polygon</name>
-      <styleUrl>#yellowBlueStyle</styleUrl>
+      <styleUrl>PerthMile.kml #yellowBlueStyle</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
