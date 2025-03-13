@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Square Mile Polygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [115.857048, -31.952312],
+            [115.868048, -31.952312],
+            [115.868048, -31.943312],
+            [115.857048, -31.943312],
+            [115.857048, -31.952312]
+          ]
+        ]
+      }
+    }
+  ]
+}
