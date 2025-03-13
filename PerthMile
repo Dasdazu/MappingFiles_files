@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="yellowBlueStyle">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>80ffff00</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>Square Mile Polygon</name>
+      <styleUrl>#yellowBlueStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              115.857048,-31.952312,0
+              115.868048,-31.952312,0
+              115.868048,-31.943312,0
+              115.857048,-31.943312,0
+              115.857048,-31.952312,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
