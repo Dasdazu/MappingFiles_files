@@ -1,6 +1,8 @@
 {
-  "type": "FeatureCollection",
-  "features": [
+"type": "FeatureCollection",
+"name": "Swan_aboriginal_heritage_places",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
     { "type": "Feature", "geometry": { "type": "Point", "coordinates": [115.986725, -31.889018]}, "properties": { "name": "Point 1"}},
     { "type": "Feature", "geometry": { "type": "Point", "coordinates": [116.007578, -31.890995]}, "properties": { "name": "Point 2"}}
 ]
